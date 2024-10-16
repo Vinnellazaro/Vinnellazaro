@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vinnellazaro
-- 👀 I’m interested in Front end Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me? vinnellazarus@gmail.com
 
 <!---
